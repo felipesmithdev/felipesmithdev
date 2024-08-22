@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @felipesmithdev
 - 👀 I’m interested in full-stack
 - 🌱 I’m currently learning HTML, CSS, SQL, JAVASCRIPT
- - I’m looking to collaborate on ...
 - 📫 How to reach me felipe.barbosa@sptech.school
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love harry potter. 
