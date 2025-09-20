@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! Eu sou o Felipe 👋
 
-<!--
-**felipesmithdev/felipesmithdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estagiando como back-end (salesforce) na Vivo
+- 🌱 Graduando Ciência da Computação 3/8
+- 💬 Email de contato: felipe.barbosa@sptech.school
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=felipesmithdev&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=felipesmithdev&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=felipesmithdev&show_icons=true" height="180em" />
+</picture> 
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesmithdev&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesmithdev&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesmithdev&layout=compact" height="180em" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
