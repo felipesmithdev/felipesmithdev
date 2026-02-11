@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Felipe 👋
 
 - 🔭 Trailhead Ranger - 76k / 140
-- 🌱 Graduando Ciência da Computação 4/8
-- 💬 Email de contato: felipe.barbosa@sptech.school
+- 💬 Email de contato: felipedosantos2004@gmail.com
 - 😄 Pronomes: Ele/Dele
