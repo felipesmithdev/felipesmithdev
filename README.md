@@ -2,7 +2,7 @@
 
 - 🔭 Trailhead Ranger - 76k / 140
 - 💬 Email de contato: felipedosantos2004@gmail.com
-- 😄 Pronomes: Ele/Dele
+- 💻 Ciência da Computação 1/8
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27&color=3b4261" height="20"/>
