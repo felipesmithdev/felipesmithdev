@@ -16,7 +16,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesmithdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipesmithdev&theme=tokyonight"
     width="100%"
+    alt="Linguagens mais utilizadas"
   />
 </p>
