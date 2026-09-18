@@ -14,4 +14,4 @@
   <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27&color=3b4261" height="20"/>
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=1000" width="100%" alt="Linguagens mais utilizadas" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesmithdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&card_width=1000" width="100%" alt="Linguagens mais utilizadas" /> </p>
